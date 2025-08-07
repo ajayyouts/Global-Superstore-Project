@@ -82,15 +82,6 @@ Visuals include bar charts, dual-axis time series, dot plots, calculated fields 
 
 ## Author
 
-**Ajay Youts
-Rising Junior | Accounting & Business Analytics  
-Texas A&M University
-
-
-
-
-
-
 **Ajay Youts**  
 Rising Junior | Accounting & Business Analytics  
 Texas A&M University
