@@ -1,5 +1,7 @@
 # Global Superstore Sales Analysis
 
+Interactive Tableau dashboard and Excel analysis of 50K+ transactions from the Global Superstore dataset.Cleaned and modeled raw data with Excel Power Query, built KPIs on sales, profit, and order trends, and visualized insights on customer segments, product performance, and geographic markets. Delivered actionable findings on margin optimization, discount impact, and seasonal sales peaks.
+
 ## Project Overview
 
 This project analyzes sales data from a global e-commerce retailer to uncover key business insights across customer segments, product categories, geographic markets, and time. Using Excel for data cleaning and exploratory analysis, and Tableau for interactive dashboards, the project answers six business-critical questions that a business analyst might face in a real-world setting.
