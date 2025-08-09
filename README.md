@@ -65,7 +65,8 @@ The Tableau workbook is organized into three dashboards, each aligned with a the
 ![Customer & Segment Insights](https://raw.githubusercontent.com/ajayyouts/Global-Superstore-Project/main/docs/customer_&_segment_insights.JPG)
 
 - **Product & Profitability Insights**
-![Customer & Segment Insights](https://raw.githubusercontent.com/ajayyouts/Global-Superstore-Project/main/docs/customer_&_segment_insights.JPG)
+![Customer & Segment Insights](https://raw.githubusercontent.com/ajayyouts/Global-Superstore-Project/main/docs/product_&_profitability_insights.JPG)
+
 4. **Geographic & Temporal Trends**
 
 Visuals include bar charts, dual-axis time series, dot plots, calculated fields (e.g., AOV, Profit Margin), and KPI callouts.
