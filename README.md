@@ -34,11 +34,6 @@ Prior to building dashboards, I conducted an exploratory data analysis (EDA) pha
 -  Explored time-based trends using month and quarter breakdowns
 -  Verified metric stability and uncovered early insights to guide dashboard design
 
-## Tools Used
-
-- **Excel**: Data cleaning, power query, pivot tables, exploratory analysis
-- **Tableau**: Calculated fields, visual analytics, KPI indicators, dashboard design
-
 ## Business Questions Answered
 
 1. **Customer Segments**
