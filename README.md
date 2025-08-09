@@ -62,8 +62,9 @@ Prior to building dashboards, I conducted an exploratory data analysis (EDA) pha
 The Tableau workbook is organized into three dashboards, each aligned with a theme:
 
 1. **Customer & Segment Insights**
-2. **Product & Profitability Insights**
-3. **Geographic & Temporal Trends**
+   ![Dashboard Overview](https://raw.githubusercontent.com/ajayyouts/Global-Superstore-Project/main/docs/dashboard_overview.png)
+3. **Product & Profitability Insights**
+4. **Geographic & Temporal Trends**
 
 Visuals include bar charts, dual-axis time series, dot plots, calculated fields (e.g., AOV, Profit Margin), and KPI callouts.
 
