@@ -62,7 +62,7 @@ Prior to building dashboards, I conducted an exploratory data analysis (EDA) pha
 The Tableau workbook is organized into three dashboards, each aligned with a theme:
 
 - **Customer & Segment Insights**
-![Customer & Segment Insights](https://raw.githubusercontent.com/ajayyouts/Global-Superstore-Project/main/docs/
+![Customer & Segment Insights](https://raw.githubusercontent.com/ajayyouts/Global-Superstore-Project/main/docs/customer_&_segment_insights.JPG)
 3. **Product & Profitability Insights**
 4. **Geographic & Temporal Trends**
 
